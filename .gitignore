@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+.pyc
+.env
+secrets.json
+*.pyc
+aws_cred*
+azure_cred*
